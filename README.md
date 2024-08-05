@@ -1,6 +1,6 @@
 <h2>About the project</h2>
 
-<p><b>WeatherApp</b> the application of science and technology to predict the conditions of the atmosphere for a given location and time.</p>
+<p><b>WeatherApp</b>->The application of science and technology to predict the conditions of the atmosphere for a given location and time.</p>
 
 <p>Credits for the design goes to <a href=https://www.linkedin.com/in/malay-singh-73881322b/'>Malay Singh</a></p>
 
