@@ -20,4 +20,8 @@
 <img width="400" alt="Screenshot 2023-08-23 at 4 11 00 PM" src="https://github.com/user-attachments/assets/f0df8f7f-03dc-43ee-89f0-e779f2d76f3c"><br>
 <img width="400" alt="Screenshot 2023-08-23 at 4 11 00 PM" src="https://github.com/user-attachments/assets/ce31f15b-b2e9-4acb-843c-3e3561dc2e45"><br>
 
+<h2>Screen recording of the Project 📸</h2>
+
+https://github.com/user-attachments/assets/cdd02b09-f54c-447d-bdca-4d93a781250c
+
 
