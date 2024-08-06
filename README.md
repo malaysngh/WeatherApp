@@ -10,7 +10,6 @@
 » MVVM  <br>
 » Kotlin  <br>
 » Retrofit  <br>
-» Coin
 
 <h2>Screenshots of the Project 📸</h2>
 <br>
